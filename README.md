@@ -18,9 +18,19 @@ I'm a passionate developer, competitive programmer, and lifelong learner. I love
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/HimUnited?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/HimUnited)
 
-### CodeChef
+## 🏅 My Credly Achievements
 
-[![Codechef Activity Graph](https://codechef-activity-graph.vercel.app/graph?username=kalyugwasi&theme=dracula)](https://www.codechef.com/users/kalyugwasi)
+[![View my Credly Profile](https://img.shields.io/badge/Credly-Badges-orange?logo=credly)](https://www.credly.com/users/kalyugwasi)
+
+I have earned several badges across cloud, machine learning, and programming skills!
+
+### Some of my badges:
+
+[![Google Cloud Foundation](https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png)](https://www.credly.com/badges/29249195-225f-4c1e-956a-9133d56e8524/public_url)
+[![AWS Cloud Foundation](https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/9170237d-e5b2-4726-9b23-7092ccc1ebd6/public_url)
+[![AWS Cloud Architect](https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](https://www.credly.com/badges/dcfdad20-f8d0-4853-bc8e-b8e08d208c49/public_url)
+[![AWS ML Foundation](https://images.credly.com/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png)](https://www.credly.com/badges/c1906d77-5709-4740-a814-dc6aaec1e385/public_url)
+[![Cisco Python Essentials](https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/a13c92ef-182d-4d3e-9076-f0f47c075b38/public_url)
 
 ---
 
