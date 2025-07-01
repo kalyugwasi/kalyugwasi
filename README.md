@@ -22,10 +22,7 @@ I'm a passionate developer, competitive programmer, and lifelong learner. I love
 </p>
 
 <p align="center">
-  <!-- GitHub Snake Animation -->
-  <img src="https://github.com/kalyugwasi/kalyugwasi/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" width="45%"/>
-  <!-- LeetCode Heatmap -->
-  <img src="https://leetcard.jacoblin.cool/HimUnited?ext=heatmap" alt="LeetCode Heatmap" width="45%"/>
+  <  <img src="https://leetcard.jacoblin.cool/HimUnited?ext=heatmap" alt="LeetCode Heatmap" width="45%"/>
 </p>
 
 ## 🏅 My Credly Achievements
