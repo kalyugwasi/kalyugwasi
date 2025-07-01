@@ -14,9 +14,19 @@ I'm a passionate developer, competitive programmer, and lifelong learner. I love
 
 ## 🔥 My Coding Activity Heatmaps
 
-### LeetCode
+### Coding stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/HimUnited?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/HimUnited)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyugwasi&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://leetcard.jacoblin.cool/HimUnited?theme=dark&font=Montserrat&ext=activity" alt="LeetCode Stats" height="160"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Snake Animation -->
+  <img src="https://github.com/kalyugwasi/kalyugwasi/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" width="45%"/>
+  <!-- LeetCode Heatmap -->
+  <img src="https://leetcard.jacoblin.cool/HimUnited?ext=heatmap" alt="LeetCode Heatmap" width="45%"/>
+</p>
 
 ## 🏅 My Credly Achievements
 
