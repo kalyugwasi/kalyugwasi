@@ -3,27 +3,24 @@
 # Hi there, I'm Himanshu Kumar! 👋
 
 Welcome to my GitHub Profile!  
-I'm a passionate developer, competitive programmer, and lifelong learner. I love building impactful software solutions and tackling algorithmic challenges across platforms.
+I'm a passionate developer, competitive programmer, and lifelong learner. I thrive on solving real-world problems and enjoy using technology to make a positive impact. My journey spans cloud computing, machine learning and software engineering.
 
 ## 🚀 About Me
 
-- 💻 I regularly solve problems on LeetCode and Codechef, constantly sharpening my problem-solving skills.
-- 🛠️ My expertise includes data structures, algorithms, and full-stack web development.
-- 🌟 I enjoy working on open-source projects and collaborating with the developer community.
-- 📚 Always eager to learn new technologies and contribute to meaningful projects.
+- ☁️ **Cloud & DevOps:** Skilled in Google Cloud, AWS, and cloud-native technologies, with hands-on experience in deploying, monitoring, and securing scalable solutions. I hold multiple Credly badges for cloud architecture, DevOps, and security.
+- 🤖 **Machine Learning & AI:** Proficient in building ML models, APIs, and GenAI applications, leveraging Google Cloud Vertex AI, TensorFlow, and practical MLOps workflows.
+- 🧑‍💻 **Full-Stack Engineering:** Experienced in designing and developing web applications using React, Node.js, Python, and modern JavaScript frameworks.
+- 🏆 **Competitive Programming:** Active on LeetCode and CodeChef, with strong fundamentals in data structures, algorithms, and problem-solving.
+- 💡 **Open Source & Community:** Contributor to open-source projects, always eager to learn and share knowledge. I believe in collaborative growth and continuous improvement.
+- 🛡️ **Security & Networking:** Demonstrated expertise in cloud security, IAM, networking, and infrastructure automation.
+- 📚 **Continuous Learner:** Consistently upskilling in cloud, AI, data engineering, and DevOps through hands-on projects and certifications.
 
 ## 🔥 My Coding Activity Heatmaps
 
-### Coding stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyugwasi&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://leetcard.jacoblin.cool/HimUnited?theme=dark&font=Montserrat&ext=activity" alt="LeetCode Stats" height="160"/>
+  <img src="https://leetcard.jacoblin.cool/HimUnited?ext=heatmap" alt="LeetCode Heatmap" width="45%"/>
 </p>
 
-<p align="center">
-  <  <img src="https://leetcard.jacoblin.cool/HimUnited?ext=heatmap" alt="LeetCode Heatmap" width="45%"/>
-</p>
 
 ## 🏅 My Credly Achievements
 
@@ -137,14 +134,14 @@ I have earned several Credly badges across cloud, machine learning, and programm
 
 ---
 
-## 📌 Featured Projects
-
-- Check out my most active and interesting repositories on my [GitHub profile](https://github.com/kalyugwasi?tab=repositories).
-
 ## 🛠️ Languages & Tools
 
-- Python, C++, JavaScript, Node.js, React, and more
-- Git & GitHub for version control and collaboration
+- **Programming Languages:** Python, C++, JavaScript (ES6+), TypeScript, Java, Bash, SQL
+- **Web & App Development:** Node.js, React, Express.js, REST APIs, HTML5, CSS3, Firebase
+- **Cloud & DevOps:** Google Cloud Platform (GCP), AWS, Terraform, Docker, Kubernetes, App Engine, Cloud Functions, CI/CD, GitHub Actions, Cloud Monitoring, Cloud IAM, Service Accounts, Prometheus, Cloud Spanner, BigQuery, Pub/Sub, Eventarc, Dataplex, Looker, AppSheet
+- **Machine Learning & Data:** Vertex AI, TensorFlow, BigQuery ML, Natural Language API, Vision API, Dataplex, Looker, Data Loss Prevention API
+- **Version Control & Collaboration:** Git, GitHub, GitHub Projects
+- **Other Tools:** AppSheet, AlloyDB, Cloud Storage, VS Code, Linux
 
 ## 🌐 Connect with Me
 
