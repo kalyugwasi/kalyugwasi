@@ -146,7 +146,8 @@ I have earned several Credly badges across cloud, machine learning, and programm
 ## 🌐 Connect with Me
 
 - LeetCode: [HimUnited](https://leetcode.com/HimUnited)
-- CodeChef: [kalyugwasi](https://www.codechef.com/users/kalyugwasi)
+- CodeChef: [kalyugwasi](https://www.codechef.com/users/kalyugwasi) Div 4(ELO = 1049)
+- CodeForces: [kalyug](https://codeforces.com/profile/kalyug) Contest rating: 365 (newbie, 365)
 
 ---
 
