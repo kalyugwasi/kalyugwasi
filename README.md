@@ -9,7 +9,6 @@ I'm a passionate developer, competitive programmer, and lifelong learner. I thri
 
 - ☁️ **Cloud & DevOps:** Skilled in Google Cloud, AWS, and cloud-native technologies, with hands-on experience in deploying, monitoring, and securing scalable solutions. I hold multiple Credly badges for cloud architecture, DevOps, and security.
 - 🤖 **Machine Learning & AI:** Proficient in building ML models, APIs, and GenAI applications, leveraging Google Cloud Vertex AI, TensorFlow, and practical MLOps workflows.
-- 🧑‍💻 **Full-Stack Engineering:** Experienced in designing and developing web applications using React, Node.js, Python, and modern JavaScript frameworks.
 - 🏆 **Competitive Programming:** Active on LeetCode and CodeChef, with strong fundamentals in data structures, algorithms, and problem-solving.
 - 💡 **Open Source & Community:** Contributor to open-source projects, always eager to learn and share knowledge. I believe in collaborative growth and continuous improvement.
 - 🛡️ **Security & Networking:** Demonstrated expertise in cloud security, IAM, networking, and infrastructure automation.
@@ -146,8 +145,8 @@ I have earned several Credly badges across cloud, machine learning, and programm
 ## 🌐 Connect with Me
 
 - LeetCode: [HimUnited](https://leetcode.com/HimUnited)
-- CodeChef: [kalyugwasi](https://www.codechef.com/users/kalyugwasi) Div 4(ELO = 1049)
-- CodeForces: [kalyug](https://codeforces.com/profile/kalyug) Contest rating: 365 (newbie, 365)
+- CodeChef: [kalyugwasi](https://www.codechef.com/users/kalyugwasi) Div 4(ELO = 1057)
+- CodeForces: [kalyug](https://codeforces.com/profile/kalyug) Contest rating: 598 (newbie, 589)
 
 ---
 
