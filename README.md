@@ -1,8 +1,5 @@
-## Hi there 👋
-
 # Hi there, I'm Himanshu Kumar! 👋
 
-Welcome to my GitHub Profile!  
 I'm a passionate developer, competitive programmer, and lifelong learner. I thrive on solving real-world problems and enjoy using technology to make a positive impact. My journey spans cloud computing, machine learning and software engineering.
 
 ## 🚀 About Me
@@ -145,9 +142,5 @@ I have earned several Credly badges across cloud, machine learning, and programm
 ## 🌐 Connect with Me
 
 - LeetCode: [HimUnited](https://leetcode.com/HimUnited)
-- CodeChef: [kalyugwasi](https://www.codechef.com/users/kalyugwasi) Div 4(ELO = 1057)
-- CodeForces: [kalyug](https://codeforces.com/profile/kalyug) Contest rating: 589 (newbie, 589)
-
----
-
-_Thanks for stopping by! Feel free to explore my repos and connect for collaboration or discussion!_
+- CodeChef: [kalyugwasi](https://www.codechef.com/users/kalyugwasi) Div 4(ELO = 1160)
+- CodeForces: [kalyug](https://codeforces.com/profile/kalyug) Contest rating: 590 (newbie)
